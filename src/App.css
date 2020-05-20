@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  height: 100%;
+  flex-wrap: nowrap;
+  display: flex;
+  justify-content:center;
+  width: 100%;
+  flex-direction: column;
+}
+body,html{
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient( to top , rgb(255,255,205)60%,rgba(255,255,220)40%);
+}
+
+
